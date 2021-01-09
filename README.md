@@ -7,7 +7,7 @@
 - ⚡ &nbsp; Learning more about Artificial Intelligence.
 - 💻 &nbsp; Exploring new technologies.
 - 💼 &nbsp; Working as a Freelancer.
-- ♟ &nbsp; I love playing Chess.
+- ♟ &nbsp;  I love playing Chess.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
