@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science Engineering at School of Engineering, Tezpur University.
-- 💼 &nbsp; Working as a Freelancer.
 - ⚡ &nbsp; Learning more about Artificial Intelligence.
+- 💻 &nbsp; Exploring new technologies.
+- 💼 &nbsp; Working as a Freelancer.
 - ♟ &nbsp; I love playing Chess.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
