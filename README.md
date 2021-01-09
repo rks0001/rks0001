@@ -46,6 +46,6 @@
 <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-ranjitkalita-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ranjit-kalita-a5316b167/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ranjit%20Kalita-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ranjit.kalita.23/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ranjit.kalita.23-blue?style=flat-square&logo=instagram"></a>
- <a href="https://twitter.com/ranjitkalita5o5/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ranjit%20kalita%205o5-blue?style=flat-square&logo=twitter"></a>
+ <a href="https://twitter.com/ranjitkalita5o5/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ranjitkalita5o5-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:ranjitkalita499@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ranjitkalita499@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
