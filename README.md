@@ -35,8 +35,8 @@
 <br/>
 
 <a href="https://github.com/rks0001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rks0001&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rks0001&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rks0001&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rks0001&theme=tokyonight&layout=compact" />
 </a>
 
 <br/>
