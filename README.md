@@ -1,9 +1,10 @@
 <h2> Hey there! I'm Ranjit 👋</h2>
+<h3> I am a 2nd Year CSE Student and a Developer </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🤔 &nbsp; Exploring new technologies.
+- 🎓 &nbsp; Studying Computer Science Engineering at School of Engineering, Tezpur University.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
