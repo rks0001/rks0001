@@ -8,7 +8,6 @@
 - 💼 &nbsp; Working as a Freelancer.
 - ⚡ &nbsp; Learning more about Artificial Intelligence.
 - ♟ &nbsp; I love playing Chess.
-- 🎸 &nbsp; I play Guitar and love singing songs.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -44,8 +43,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ranjit-kalita-a5316b167/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ranjit.kalita.23/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ranjitkalita499@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-website-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/ranjit-kalita-a5316b167/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ranjit-kalita-a5316b167-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ranjit.kalita.23/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ranjit.kalita.23-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ranjitkalita499@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ranjitkalita499@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
