@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Ranjit 👋</h2>
-<h3> I am a 2nd Year CSE Student and a Developer </h3>
+<h3> I am a 3rd Year CSE Student and a Developer </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
