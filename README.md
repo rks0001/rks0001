@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science Engineering at School of Engineering, Tezpur University.
-- 🌐 &nbsp; Full Stack MERN Developer and Open Source Contributor.
-- 🤖 &nbsp; Learning more about Artificial Intelligence.
+- 🌐 &nbsp; MERN Developer.
+- 🤖 &nbsp; Learning more about ----.
 - 💻 &nbsp; Exploring new technologies.
 - 💼 &nbsp; Working as a Freelancer.
 - ♟ &nbsp;  I love playing Chess.
