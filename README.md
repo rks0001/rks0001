@@ -5,9 +5,8 @@
 
 - 🎓 &nbsp; Studying Computer Science Engineering at School of Engineering, Tezpur University.
 - 🌐 &nbsp; MERN Developer.
-- 🤖 &nbsp; Learning more about ----.
+- 🤖 &nbsp; Learning more about Blockchain and Web3.
 - 💻 &nbsp; Exploring new technologies.
-- 💼 &nbsp; Working as a Freelancer.
 - ♟ &nbsp;  I love playing Chess.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
