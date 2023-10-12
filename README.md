@@ -2,6 +2,7 @@
 <h3> Hi, I'm Ranjit Kalita, I'm 22 years old, I am a CSE Graduate from Tezpur University. I like to use various technologies to build exciting projects.I've started Web Development in 2020 and since then I've learned a lot of new things and acquired a decent amount of skills and I am still learning.Currently I am trying to learn more about Blockchain and Web3. </h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+<p align="center">
 <img alt="Email" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img alt="Email" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="Email" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
@@ -9,7 +10,7 @@
 <img alt="Email" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img alt="Email" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 <img alt="Email" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
+</p>
 
 <br/>
 <h3> 🤝 &nbsp;Connect with Me </h3>
